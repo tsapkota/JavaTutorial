@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MethodConcept {
 
 	public static void printMyName(String name) {
-		System.out.println("You name is " + name);
+		System.out.println("Your name is " + name);
 		return;
 	}
 	
